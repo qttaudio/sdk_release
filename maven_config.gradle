@@ -1,0 +1,22 @@
+ext {
+
+    qtt_version = '1.5.0'
+    publishedGroupId = 'com.qttaudio'
+    website='https://www.qttaudio.com/'
+    siteUrl = 'https://github.com/qttaudio/sdk_release'
+    gitUrl = 'https://github.com/qttaudio/sdk_release'
+    projectUrl = 'https://github.com/qttaudio/sdk_release'
+    developerId = 'qttaudio'
+    developerName = 'qttaudio'
+    developerEmail = 'xing@qttaudio.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http ://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = '["Apache-2.0"]'
+
+    bintrayName = 'qttaudio-sdk'
+    artifact = 'android-sdk'
+    libraryName = bintrayName
+    libraryDescription = 'Android real-time audio SDK'
+    libraryVersion = qtt_version
+}

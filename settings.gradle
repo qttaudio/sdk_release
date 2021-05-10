@@ -1,0 +1,2 @@
+include ':qttaudio'
+rootProject.name = "sdk_release"
